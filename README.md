@@ -1,6 +1,6 @@
-# Intelligence & Trust: Copilot APIs Test Client
+# Copilot APIs Test Client
 
-Modular Python desktop client for Microsoft 365 Copilot APIs using Microsoft work/school account sign-in.
+Modular Python desktop client for Microsoft 365 Copilot APIs.
 
 ## About
 
@@ -18,6 +18,8 @@ API behavior, permissions, and endpoint references were sourced from Microsoft L
 - Retrieval API overview: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/retrieval/overview
 - AI interaction history resource: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/interaction-export/resources/aiinteractionhistory?pivots=graph-v1
 - AI interaction export method: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/interaction-export/aiinteractionhistory-getallenterpriseinteractions?pivots=graph-v1
+
+![Copilot API Test Client](https://raw.githubusercontent.com/davideldersveld/Copilot-APIs-Test-Client/refs/heads/main/Copilot%20Chat%20API%20Test%20Client.png)
 
 ## Scope (initial)
 
