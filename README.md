@@ -16,8 +16,6 @@ API behavior, permissions, and endpoint references were sourced from Microsoft L
 - Chat API overview: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/chat/overview
 - Search API overview: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/search/overview
 - Retrieval API overview: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/retrieval/overview
-- AI interaction history resource: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/interaction-export/resources/aiinteractionhistory?pivots=graph-v1
-- AI interaction export method: https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/api/ai-services/interaction-export/aiinteractionhistory-getallenterpriseinteractions?pivots=graph-v1
 
 ![Copilot API Test Client](https://raw.githubusercontent.com/davideldersveld/Copilot-APIs-Test-Client/refs/heads/main/Copilot%20Chat%20API%20Test%20Client.png)
 
