@@ -4,7 +4,7 @@ Modular Python desktop client for Microsoft 365 Copilot APIs.
 
 ## About
 
-This repository provides a non-official test client for evaluating Microsoft 365 Copilot APIs in development and lab scenarios.
+This repository provides an unofficial test client for evaluating Microsoft 365 Copilot APIs in development and lab scenarios.
 
 - Distribution status: provided **as-is**
 - Intended use: testing, prototyping, and learning
